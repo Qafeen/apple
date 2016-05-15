@@ -1,0 +1,11 @@
+{
+    "name": "qafeen/apple-products",
+    "description": "List of Apple Products.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohammed Mudasir",
+            "email": "md.hyphen@gmail.com"
+        }
+    ]
+}
