@@ -328,8 +328,8 @@
             "MA896xx/A"
         ],
         "configurations": [
-            "15.4"/D2.2G/2GB/120/SD-DL",
-            "15.4"/D2.4G/2GB/160/SD-DL"
+            "15.4\"/D2.2G/2GB/120/SD-DL",
+            "15.4\"/D2.4G/2GB/160/SD-DL"
         ],
         "inch": 15
     },
@@ -341,8 +341,8 @@
             "MA610xx/A"
         ],
         "configurations": [
-            "15.4"/D2.16G/1G/120/SD-DL",
-            "15.4"/D2.33G/2G/120/SD-DL"
+            "15.4\"/D2.16G/1G/120/SD-DL",
+            "15.4\"/D2.33G/2G/120/SD-DL"
         ],
         "inch": 15
     },
